@@ -85,7 +85,25 @@
     #web-designer h1{
         font-size: 35px;
     }
+    .skill-perentage{
+        padding-right: 0px;
+    }
     
+}
+@media only screen and (max-width: 400px){
+    .skill-title{
+        font-size: 10px;
+        padding-left: 10px;
+    }
+    .skill-perentage{
+        font-size: 10px;
+    }
+    #home{
+        
+        background-attachment:scroll;
+       
+    }
+   
 }
 @media only screen and (max-width: 300px){
     #home h2{
