@@ -100,7 +100,9 @@
     .skill-perentage{
         font-size: 10px;
     }
-   
+    #home{
+        background-attachment:scroll;
+    }
    
 }
 @media only screen and (max-width: 300px){
