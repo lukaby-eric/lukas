@@ -17,7 +17,9 @@
         margin-top: 20px;
         margin-bottom: 20px;
     }
-  
+     #home{
+        background-attachment:scroll;
+    }
     #home h1{
         font-size: 25px;
     }
